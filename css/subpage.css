@@ -34,6 +34,14 @@ h2{
     font-style: oblique;
     }
 
+img{
+     margin-left:37%; 
+    }
+
+figcaption{
+            text-align:center;
+          }
+
 small{
        color:white;
        font-variant:small-caps;
@@ -61,4 +69,3 @@ hr{
 .block{
         display:inline-block;
        }
-
