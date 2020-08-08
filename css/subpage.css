@@ -23,7 +23,8 @@ p {
 footer{
          background-color:black;
          line-height:250%; 
-         margin:0.5px;        
+         margin:0.5px; 
+         overflow:hidden;
        }
 
 h2{
