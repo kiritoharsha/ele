@@ -3,7 +3,7 @@ body {
      margin:8px;
      max-width:1920px;
      min-width:880px;
-     width:1001px;
+     width:1366px;
      }
 
 header{
@@ -12,7 +12,7 @@ header{
       background-color:black;
       padding-top:0.3%;
       margin:0.5px;
-      width:1001px;
+      width:1366px;
        }
 
 button{
@@ -29,7 +29,7 @@ footer{
          line-height:250%; 
          margin:0.5px;
          overflow:hidden;
-         width:1001px;        
+         width:1366px;        
        }
 
 h2{
@@ -37,7 +37,7 @@ h2{
     font-size: 200%;
     text-decoration: underline;
     font-style: oblique;
-    width:1001px;
+    width:1366px;
     }
 
 small{
@@ -76,5 +76,5 @@ figcaption{
             text-align:center;
            }
 section{
-         width:1001px;
+         width:1366px;
         }
