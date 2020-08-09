@@ -3,6 +3,7 @@ body {
      margin:8px;
      max-width:1920px;
      min-width:880px;
+     width:1001px;
      }
 
 header{
@@ -11,11 +12,12 @@ header{
       background-color:black;
       padding-top:0.3%;
       margin:0.5px;
+      width:1001px;
        }
 
 button{
         background-color:#f76026;
-        font-variant: small-caps
+        font-variant: small-caps;
        }
 
 p {    
@@ -25,8 +27,9 @@ p {
 footer{
          background-color:black;
          line-height:250%; 
-         margin:0.5px; 
+         margin:0.5px;
          overflow:hidden;
+         width:1001px;        
        }
 
 h2{
@@ -34,15 +37,8 @@ h2{
     font-size: 200%;
     text-decoration: underline;
     font-style: oblique;
+    width:1001px;
     }
-
-img{
-     margin-left:37%; 
-    }
-
-figcaption{
-            text-align:center;
-          }
 
 small{
        color:white;
@@ -71,3 +67,14 @@ hr{
 .block{
         display:inline-block;
        }
+
+img{
+     margin-left:37%;
+    }
+
+figcaption{
+            text-align:center;
+           }
+section{
+         width:1001px;
+        }
